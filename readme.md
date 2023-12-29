@@ -12,4 +12,4 @@ Below is the link for the Gmail website.
 
 ## Sample Output
 
-![Gmail output](https://apurwa-rokade.github.io/Gmail_Clone/)
+[Gmail output](https://apurwa-rokade.github.io/Gmail_Clone/)
