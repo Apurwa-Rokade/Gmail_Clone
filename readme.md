@@ -10,6 +10,6 @@ Below is the link for the Gmail website.
 
 [Gmail Website](https://mail.google.com/)
 
-## Sample Output
+# Output
 
 [Gmail output](https://apurwa-rokade.github.io/Gmail_Clone/)
